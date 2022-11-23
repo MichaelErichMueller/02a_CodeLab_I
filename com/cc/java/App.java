@@ -1,7 +1,7 @@
 package com.cc.java;
 
 public class App {
-    static int Wert =100000;
+    static int Wert =10000;
     
 
     public static void main(String[] args) {
